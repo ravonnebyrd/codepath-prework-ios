@@ -15,6 +15,9 @@
 		B7A17CA825BA039D00A7362C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7A17CA625BA039D00A7362C /* LaunchScreen.storyboard */; };
 		B7A17CB325BA039E00A7362C /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A17CB225BA039E00A7362C /* PreworkTests.swift */; };
 		B7A17CBE25BA039E00A7362C /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A17CBD25BA039E00A7362C /* PreworkUITests.swift */; };
+		B7A17CD625BA35F200A7362C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A17CD525BA35F200A7362C /* SettingsViewController.swift */; };
+		B7A17CD725BA35F200A7362C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A17CD525BA35F200A7362C /* SettingsViewController.swift */; };
+		B7A17CD825BA35F200A7362C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7A17CD525BA35F200A7362C /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		B7A17CB925BA039E00A7362C /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7A17CBD25BA039E00A7362C /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		B7A17CBF25BA039E00A7362C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7A17CD525BA35F200A7362C /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 		B7A17C8F25BA039D00A7362C = {
 			isa = PBXGroup;
 			children = (
+				B7A17CD525BA35F200A7362C /* SettingsViewController.swift */,
 				B7A17C9A25BA039D00A7362C /* Prework */,
 				B7A17CB125BA039E00A7362C /* PreworkTests */,
 				B7A17CBC25BA039E00A7362C /* PreworkUITests */,
@@ -261,6 +266,7 @@
 				B7A17CA025BA039D00A7362C /* ViewController.swift in Sources */,
 				B7A17C9C25BA039D00A7362C /* AppDelegate.swift in Sources */,
 				B7A17C9E25BA039D00A7362C /* SceneDelegate.swift in Sources */,
+				B7A17CD625BA35F200A7362C /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7A17CB325BA039E00A7362C /* PreworkTests.swift in Sources */,
+				B7A17CD725BA35F200A7362C /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7A17CBE25BA039E00A7362C /* PreworkUITests.swift in Sources */,
+				B7A17CD825BA35F200A7362C /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
