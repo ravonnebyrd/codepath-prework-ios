@@ -1,4 +1,4 @@
-# Pre-work - Quick Tip 
+# Quick Tip 
 
 Quick Tip is a tip calculator application for iOS.
 
